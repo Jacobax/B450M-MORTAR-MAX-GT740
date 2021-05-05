@@ -14,7 +14,7 @@ CPU：R5 3600
 2. 开机提示安装内存超出最大支持，网上有说是MacPro7,1的锅，不影响使用，但建议修改  
 3. 不能登录apple id及使用相关功能  
 
-本人黑苹果新人，efi制作知识来源主要为opencore官方文档及网上各位大佬的教程，在此不点名感谢  
+本人黑苹果新人，efi制作知识来源主要为opencore官方文档及网上各位大佬的教程，在此作不点名地图炮感谢  
 
 # 推荐网址  
 [OpenCore安装指南](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites)  
