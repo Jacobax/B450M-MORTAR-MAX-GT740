@@ -11,9 +11,13 @@ CPU：R5 3600
 机型信息为MacPro7,1  
 # 已知问题  
 1. 不识别我的nvme，海力士pc711，折中安装到旧sata固态  
-2. 开机提示安装内存超出最大支持，网上说有是MacPro7,1的锅，不影响使用  
+2. 开机提示安装内存超出最大支持，网上说有是MacPro7,1的锅，不影响使用，但建议修改  
 3. 不能登录apple id及使用相关功能  
 
 本人黑苹果新人，efi制作知识来源主要为opencore官方文档及网上各位大佬的教程，在此不点名感谢  
+
+# 推荐网址  
+[OpenCore安装指南](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites)  
+[config.plist文件检验排错](https://opencore.slowgeek.com/)  
 
 # 注意：BIOS设置above 4G项后网卡不能工作，建议关闭
