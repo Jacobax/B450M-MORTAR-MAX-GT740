@@ -8,13 +8,13 @@ CPU：R5 3600
 显卡：GT740  
 网卡：板载  
 声卡：板载  
-机型信息为MacPro7,1  
+~~机型信息为MacPro7,1~~已修改机型及三码，iMac20,1，三码建议自行修改
 # 已知问题  
-1. 不识别我的nvme，海力士pc711，折衷安装到旧sata固态  
-2. 开机提示安装内存超出最大支持，网上有说是MacPro7,1的锅，不影响使用，但建议修改  
-3. ~~不能登录apple id及使用相关功能~~ 可登录商店, iMessage和iCloud目前来看登陆不了
+1. ~~不识别我的nvme，海力士pc711，折衷安装到旧sata固态~~貌似是pc711的锅，装黑苹果尽量不别选oem盘  
+2. ~~开机提示安装内存超出最大支持，网上有说是MacPro7,1的锅，不影响使用，但建议修改~~修改机型及三码后已不提示
+3. ~~不能登录apple id及使用相关功能~~ 可登录商店, iMessage和iCloud目前来看登陆不了  
 
-本人黑苹果新人，efi制作知识来源主要为opencore官方文档及网上各位大佬的教程，在此作不点名地图炮感谢  
+efi制作知识来源主要为opencore官方文档及网上各位大佬的教程，在此作不点名地图炮感谢  
 
 # 推荐网址  
 [OpenCore安装指南](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites)  
