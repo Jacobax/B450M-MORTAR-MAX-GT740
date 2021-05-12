@@ -15,12 +15,12 @@ CPU：R5 3600
 2. ~~开机提示安装内存超出最大支持，网上有说是MacPro7,1的锅，不影响使用，但建议修改~~修改机型及三码后已不提示（建议iMacPro1,1）
 3. ~~不能登录apple id及使用相关功能~~ 可登录商店, iMessage和iCloud目前来看登陆不了, 可能是新apple ID没登录过苹果设备的锅  
 
-efi制作知识来源主要为opencore官方文档及网上各位大佬的教程，在此作不点名地图炮感谢  
-
-[Rog主题来源](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1883324&highlight=%D6%F7%CC%E2) 感谢大佬的制作  
-
 # 推荐网址  
 [OpenCore安装指南](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites), 非常全面，有英语功底的建议看一遍  
 [config.plist文件检验排错](https://opencore.slowgeek.com/)，如果有macos环境，建议用opencore configrator检验功能
+
+# 鸣谢
+efi制作知识来源主要为opencore官方文档及网上各位大佬的教程，在此作不点名地图炮感谢  
+[Rog主题来源](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1883324&highlight=%D6%F7%CC%E2) 感谢大佬的制作  
 
 # 注意：这块主板BIOS设置above 4G项后网卡不能工作，建议关闭
