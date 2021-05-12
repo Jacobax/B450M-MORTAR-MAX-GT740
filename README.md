@@ -17,8 +17,10 @@ CPU：R5 3600
 
 efi制作知识来源主要为opencore官方文档及网上各位大佬的教程，在此作不点名地图炮感谢  
 
+[Rog主题来源](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1883324&highlight=%D6%F7%CC%E2) 感谢大佬的制作  
+
 # 推荐网址  
-[OpenCore安装指南](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites), 有英语功底的建议看一遍  
-[config.plist文件检验排错](https://opencore.slowgeek.com/)  
+[OpenCore安装指南](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites), 非常全面，有英语功底的建议看一遍  
+[config.plist文件检验排错](https://opencore.slowgeek.com/)，如果有macos环境，建议用opencore configrator检验功能
 
 # 注意：这块主板BIOS设置above 4G项后网卡不能工作，建议关闭
