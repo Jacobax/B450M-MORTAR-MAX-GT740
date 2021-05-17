@@ -1,6 +1,8 @@
 # OpenCore 6.9  
 ![OC_Rog](https://user-images.githubusercontent.com/23228895/118050239-78ab2f00-b3b1-11eb-849c-84041f93d730.png)
-![截屏2021-05-05 07 19 30](https://user-images.githubusercontent.com/23228895/117162608-82eb8d00-adf5-11eb-9d2e-eebbb6d2f0c4.png)  
+![截屏2021-05-05 07 19 30](https://user-images.githubusercontent.com/23228895/117162608-82eb8d00-adf5-11eb-9d2e-eebbb6d2f0c4.png)
+<img width="780" alt="截屏2021-05-17 22 25 33" src="https://user-images.githubusercontent.com/23228895/118506383-d9df5380-b75f-11eb-9beb-07038b42b42a.png">
+
 # 实践安装：big sur 11.3.1  
 # 安装方式：联网恢复安装  
 # 详细配置  
@@ -13,7 +15,7 @@ CPU：R5 3600
 # 已知问题  
 1. ~~不识别我的nvme，海力士pc711，折衷安装到旧sata固态~~pc711的锅，装黑苹果尽量别选oem盘  
 2. ~~开机提示安装内存超出最大支持，网上有说是MacPro7,1的锅，不影响使用，但建议修改~~修改机型及三码后已不提示（建议iMacPro1,1）
-3. ~~不能登录apple id及使用相关功能~~ 可登录商店, iMessage和iCloud目前来看登陆不了, 可能是新apple ID没登录过苹果设备的锅  
+3. ~~不能登录apple id及使用相关功能~~ 新号可登录商店, 其它iCloud和iMessage等iservice可参考[这里](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)解决, 用不上或懒得弄可忽略, 不影响macOS使用
 
 # 推荐网址  
 [OpenCore安装指南](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites), 非常全面，有英语功底的建议看一遍  
