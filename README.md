@@ -1,7 +1,9 @@
 # OpenCore 6.9  
 ![OC_Rog](https://user-images.githubusercontent.com/23228895/118050239-78ab2f00-b3b1-11eb-849c-84041f93d730.png)
 ![截屏2021-05-05 07 19 30](https://user-images.githubusercontent.com/23228895/117162608-82eb8d00-adf5-11eb-9d2e-eebbb6d2f0c4.png)
-<img width="780" alt="截屏2021-05-17 22 25 33" src="https://user-images.githubusercontent.com/23228895/118506383-d9df5380-b75f-11eb-9beb-07038b42b42a.png">
+<img width="1027" alt="截屏2021-05-24 00 52 02" src="https://user-images.githubusercontent.com/23228895/119269620-342e5780-bc2b-11eb-9d51-740ac98e5c6b.png">
+![截屏2021-05-24 上午12 11 00](https://user-images.githubusercontent.com/23228895/119269631-3abccf00-bc2b-11eb-94e7-9b49ceada1ec.png)
+
 
 # 实践安装：big sur 11.3.1  
 # 安装方式：联网恢复安装  
