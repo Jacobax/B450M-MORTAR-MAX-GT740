@@ -15,7 +15,7 @@ CPU：R5 3600
 声卡：板载  
 ~~机型信息为MacPro7,1~~机型及三码建议自行修改, 如iMac Pro1,1
 # 已知问题  
-1. ~~不识别我的nvme，海力士pc711，折衷安装到旧sata固态~~pc711的锅，装黑苹果尽量别选oem盘  
+1. ~~不识别我的nvme，海力士pc711，折衷安装到旧sata固态~~pc711的锅，装黑苹果尽量别选oem盘，使用请删除acpi文件夹下的SSDT-NVME-DISABLE.aml和config.plist里的条目，如果你的nvme硬盘也不支持黑苹果，可以参考[这里](https://zhuanlan.zhihu.com/p/371775428)禁用 
 2. ~~开机提示安装内存超出最大支持，网上有说是MacPro7,1的锅，不影响使用，但建议修改~~修改机型及三码后已不提示（建议iMacPro1,1）
 3. ~~不能登录apple id及使用相关功能~~ 新号可登录商店, 其它iCloud和iMessage等iservice可参考[这里](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)解决, 用不上或懒得弄可忽略, 不影响macOS使用
 
