@@ -1,4 +1,4 @@
-# 使用情自行修改机型三码及rom地址
+# 使用请自行修改机型三码及ROM地址
 ***
 # OpenCore 6.9  
 ![OC_Rog](https://user-images.githubusercontent.com/23228895/118050239-78ab2f00-b3b1-11eb-849c-84041f93d730.png)
