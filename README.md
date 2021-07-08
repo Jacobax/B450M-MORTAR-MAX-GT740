@@ -1,4 +1,4 @@
-# 重要：使用请自行修改机型三码及ROM地址
+# 重要：使用请自行修改机型三码及ROM地址，除第一个efi外都禁用了pc711 nvme盘，没有禁用需求请删除acpi文件夹下的SSDT-NVME-DISABLE.aml文件及相应配置项
 ***
 # OpenCore 6.9  
 ![OC_Rog](https://user-images.githubusercontent.com/23228895/118050239-78ab2f00-b3b1-11eb-849c-84041f93d730.png)
