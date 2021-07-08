@@ -21,6 +21,11 @@ CPU：R5 3600
 2. ~~开机提示安装内存超出最大支持，网上有说是MacPro7,1的锅，不影响使用，但建议修改~~修改机型及三码后已不提示（建议iMacPro1,1）
 3. ~~不能登录apple id及使用相关功能~~ 新号可登录商店, 其它iCloud和iMessage等iservice可参考[这里](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)解决, 用不上或懒得弄可忽略, 不影响macOS使用
 
+# 工具
+[propertree](https://github.com/corpnewt/ProperTree)首选配置工具，桌面全平台
+[opencore configurator](https://www.macwk.com/soft/opencore-configurator)次选配置工具，Mac平台
+[QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig)次选配置工具，桌面全平台
+
 # 推荐网址  
 [OpenCore安装指南](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites), 非常全面，有英语功底的建议看一遍  
 [config.plist文件检验排错](https://opencore.slowgeek.com/)，如果有macos环境，建议用opencore configrator检验功能
